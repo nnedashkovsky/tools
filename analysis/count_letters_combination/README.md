@@ -1,4 +1,4 @@
-# N-gram Counter
+# count letters combination
 
 This script counts n-grams of a given text file and saves the results in a folder named `_results`. It allows you to specify the maximum number of letters in a combination.
 
@@ -10,7 +10,7 @@ This script counts n-grams of a given text file and saves the results in a folde
 
 3. Open a terminal or command prompt, navigate to the directory containing the script and the text file, and run the following command:
 
-#### count_letters_combination ####
+count_letters_combination
 
 4. You will be prompted to enter the file path and the maximum number of letters in a combination. Enter the required information and press Enter.
 
