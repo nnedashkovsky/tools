@@ -28,3 +28,10 @@ count_letters_combination
 
 This script is released under the MIT License.
 
+
+
+## Plans
+- add an interface
+- add the ability to process all files in a folder at once
+- make it web based 
+
